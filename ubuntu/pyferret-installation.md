@@ -159,7 +159,7 @@ root@ideapad:/usr/local/pyferret/bin# ./Finstall
  Created executable script /usr/local/pyferret/bin/pyferret
 ```
 
-Now all done, open your favorite editor nano, gedit, vi any and add 2 lines as listed below, alias py='pyferret' is like shortcut for, instead of typing full pyferret
+Now all done, open your favorite editor nano, gedit, vi any and add 2 lines as listed below, `alias py='pyferret'` is like shortcut for, instead of typing full pyferret
 
 ```
 root@ideapad:/usr/local/pyferret/bin# vi /home/akshay/.bashrc
