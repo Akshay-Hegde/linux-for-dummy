@@ -1,6 +1,6 @@
 layout: page
 title: "PyFerret Installation on Ubuntu 18.04/20.04 ( Python Ferret ) "
-permalink: /pyferret-installation-on-ubuntu
+permalink: /linux-for-dummy/pyferret-installation-on-ubuntu
 
 # PyFerret Installation on Ubuntu 18.04/20.04 ( Python Ferret ) 
 
