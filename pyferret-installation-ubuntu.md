@@ -1,3 +1,7 @@
+layout: page
+title: "PyFerret Installation on Ubuntu 18.04/20.04 ( Python Ferret ) "
+permalink: /pyferret-installation-on-ubuntu
+
 # PyFerret Installation on Ubuntu 18.04/20.04 ( Python Ferret ) 
 
 Lets say current working directory is Downloads, this is your interest anywhere you can download 
